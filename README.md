@@ -1,6 +1,4 @@
 # HTML_And_CSS_Template_One
-# HTML And CSS Template One
-
 A responsive landing page template built using HTML5 and CSS3.
 
 ## 🚀 Demo
