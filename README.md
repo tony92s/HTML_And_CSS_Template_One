@@ -4,7 +4,7 @@ A responsive landing page template built using HTML5 and CSS3.
 ## 🚀 Demo
 
 Live Preview:
-https://yourusername.github.io/project-name/
+
 
 ## 📌 About The Project
 
